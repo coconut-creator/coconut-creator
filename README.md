@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @coconut-creator
 - 👀 I’m interested in ：biology、chemistry
 - 🌱 I’m currently learning ：Python、Linear Algebra、Adevanced Mathematics
-- 💞️ I’m looking to collaborate on :a big company,like Huwei
+- 💞️ I’m looking to collaborate on :a big company,like Huawei
 - 📫 How to reach me:you can mail me:hyz2429066503@outlook.com or call me 18271187181
 - 😄 Pronouns: coco
-- ⚡ Fun fact:i have no fans,but i am a fan of Huazhong University of Science and Technology
+- ⚡ Fun fact:I have no fans,but i am a fan of Huazhong University of Science and Technology
 I am a beginner of computer .Now,i'm learning computer science and technology in China University of Geosiciences
 
 <!---
